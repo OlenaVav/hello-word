@@ -1,3 +1,3 @@
 # hello-word
 Hello!
-My first stepsin GitHub
+My first steps in GitHub
